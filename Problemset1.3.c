@@ -11,7 +11,7 @@ int main(void) {
   }
 
 
-//Project Name: Problem Set 1
+//Project Name: Problem Set 1.3
 //Submitted by: Gianni Leone
 //For Course: Audio Programing In C
 //Due Date: 10/20/19
